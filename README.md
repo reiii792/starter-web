@@ -14,4 +14,4 @@ None. Revision for something and comparison
 Sample website with plenty of files for demos
 Please fork me and this repo and then issue Pull request for review.
 ## Copyright
-Copyright notice 2025
+Copyright notice 2025. All rights reserved.
