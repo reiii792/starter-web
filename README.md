@@ -1,5 +1,5 @@
 # Starter Web Repo
-A repository for a beginner's web page. more changes from myfeature branch
+A repository for a beginner's web page. more changes from myfeature branch. Updating for emergency purposes meow
 
 ## Introduction
 This repository is for showing how Git and GitHub work. Meow fore reabsing
