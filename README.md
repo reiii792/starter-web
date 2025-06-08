@@ -9,6 +9,7 @@ This is to be deployed when I am done with this course, bleeh
 
 ## Purpose
 None. Revision for something and comparison
+For testing from UDEMY course
 
 ## How To Contribute
 Sample website with plenty of files for demos
