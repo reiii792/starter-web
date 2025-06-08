@@ -8,7 +8,7 @@ This repository is for showing how Git and GitHub work
 This is to be deployed when I am done with this course, bleeh
 
 ## Purpose
-None
+None. Revision
 
 ## How To Contribute
 Sample website with plenty of files for demos
