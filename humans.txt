@@ -11,6 +11,7 @@
 
     <name>
 	Thanks to all of you!
+	Comment, like, share, and subscribe if you like this module!
 
 # TECHNOLOGY COLOPHON
 
