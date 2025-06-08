@@ -12,3 +12,6 @@ None. Revision for something and comparison
 
 ## How To Contribute
 Sample website with plenty of files for demos
+
+## Copyright
+Copyright notice 2025
