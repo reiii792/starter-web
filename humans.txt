@@ -3,7 +3,9 @@
 
 # TEAM
 
+
     <name> -- <role> -- <twitter>
+	Jane Doe  janedoe@yahoo.com
 
 # THANKS
 
